@@ -1,6 +1,0 @@
-﻿S → aBDh
-B → cC
-C → bC / @
-D → EF
-E → g / @
-F → f / @

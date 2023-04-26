@@ -1,0 +1,8 @@
+void main ()
+{
+	int a,c;
+	float b;
+	if a=10;
+	b=10.55;
+	return (0);
+}

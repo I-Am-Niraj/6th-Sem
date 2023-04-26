@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+   int a, b;
+   int s;
+   a = 10;
+   b = 20;
+   s = a - b;
+   printf("Subtraction is %d", s);
+   return 0;
+}
